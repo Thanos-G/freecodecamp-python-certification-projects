@@ -15,21 +15,6 @@ The program validates input and formats the output according to standard arithme
 • Aligns numbers correctly for vertical display  
 • Optionally displays calculated results  
 
-## Example
-
-Input:
-
-32 + 8  
-1 - 3801  
-9999 + 9999  
-
-Output:
-
-   32      1      9999  
-+   8  - 3801  + 9999  
-----  ------  ------  
-   40   -3800   19998  
-
 ## Concepts Practiced
 
 - String formatting
